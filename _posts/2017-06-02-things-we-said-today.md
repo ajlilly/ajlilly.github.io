@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things We Said Today"
-date:   2017-05-27 16:40:02 -0700
+date:   2017-06-02 20:40:02 -0700
 categories: update quaint psalter
 ---
 In all the flurry of finishing school and settling myself into Denver,
