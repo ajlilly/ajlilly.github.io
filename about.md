@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+All things regrettably Anna, yodeled down the goat trails of the Rockies
+straight home to California and beyond for your bewilderment. I finally
+have an excuse to blog like my mom and Vanessa did! Technically public,
+this MySpace I never had can be obscure and themeless, an outlet and a
+bulletin at the same time. Ideal. Not many people have the link — so if
+you think I’m embarrassing myself, you can just cut my losses for me and
+keep it to yourself. Hey, thanks!
